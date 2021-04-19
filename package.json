@@ -1,0 +1,24 @@
+{
+  "name": "theme-switcher",
+  "version": "1.0.0",
+  "description": "🌙 Little JS tool for switching dark and light theme, with a default on your browser/os settings",
+  "main": "theme-switcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://EmmanuelBeziat@github.com/EmmanuelBeziat/theme-switcher.git"
+  },
+  "keywords": [
+    "javascript",
+    "theme-switcher",
+    "dark-mode"
+  ],
+  "author": "Emmanuel Béziat <contact@emmanuelbeziat.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmanuelBeziat/theme-switcher/issues"
+  },
+  "homepage": "https://github.com/EmmanuelBeziat/theme-switcher#readme"
+}
