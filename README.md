@@ -47,7 +47,7 @@ You can also only define one and suppose the other is default.
 Then, just call the class and give it your switcher we defined earlier, the way you want:
 
 ```javascript
-new ThemeSwitcher(document.querySeletor('#SwitchTheme'))
+new ThemeSwitcher(document.querySelector('#SwitchTheme'))
 ```
 
 ## Todo
